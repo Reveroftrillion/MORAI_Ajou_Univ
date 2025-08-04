@@ -14,4 +14,10 @@
   <img width="1916" height="1073" alt="스크린샷 2025-08-01 143804" src="https://github.com/user-attachments/assets/4c879955-1ddb-4169-9e77-3b566fab372a" />
 
 ### 교육 세부 내용
-- 교육 내용 및 세부 사항은 [노션 페이지](https://www.notion.so/2-1-1bfc1ec794df80dd8284ce40db526d3f)에서 확인하실 수 있습니다.
+다음 링크에서 각 일차별 교육 내용을 확인할 수 있습니다.
+
+- [1일차 교육 내용](https://www.notion.so/250728-1-23ec1ec794df8017be63d660df8cdaae)
+- [2일차 교육 내용](https://www.notion.so/250729-2-23fc1ec794df806c8703f975764d1a53)
+- [3일차 교육 내용](https://www.notion.so/250730-3-240c1ec794df80f59bc0c96fb6808f72)
+- [4일차 교육 내용](https://www.notion.so/250731-4-241c1ec794df80ff81e5cc5db967604d)
+- [5일차 교육 내용](https://www.notion.so/250801-5-242c1ec794df80cca928f84b59f4c125)
