@@ -1,2 +1,0 @@
-MORAI-ROS_morai_msgs:beginner_tutorials_answer
--DCATKIN_DEVEL_PREFIX=/home/morai/catkin_ws/devel -DCMAKE_INSTALL_PREFIX=/home/morai/catkin_ws/install -G Unix Makefiles
